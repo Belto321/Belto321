@@ -37,9 +37,13 @@
     <h2 style='font-weight: bold;'>Countries Wiki</h2>
     Country app that included: searches, filtering, ordering and creation form<br></br>
     <img style="margin: 10px;"  width=500px src='./assets/counrty1.PNG' />
+    <br></br>
     <img style="margin: 10px;"  width=500px src='./assets/counrty2.PNG' />
-    <img style="margin: 10px;"  width=500px src='./assets/counrty3.PNG' />
+    <br></br>
+    <img style="margin: 10px;"  width=300px src='./assets/counrty3.PNG' />
+    <br></br>
     <img style="margin: 10px;"  width=500px src='./assets/counrty4.1.PNG' />
+    <br></br>
     <img style="margin: 10px;"  width=500px src='./assets/counrty4.PNG' />
     <br></br>
 </p>
