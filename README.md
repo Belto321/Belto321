@@ -21,6 +21,18 @@
 </p>
 <br></br>
 <h3>📌 My proyects</h3>
+
+<h2style='font-weight: bold;'>Restorant Guru</h2>
+<p>
+    Restaurant recommendation solution powered by Google and Yelp reviews, designed to combine restaurant data with user preferences to suggest the best available options.
+</p>
+<ul>
+    <a href="https://fastapi-app-202758999513.southamerica-east1.run.app/"><li>Link</li></a>
+    <a href="https://github.com/Belto321/restorantguru"><li>Repo</li></a>
+</ul>
+    <img style="margin: 10px;" width=500px src='./assets/restorantguru.png' />
+    <img style="margin: 10px;" width=500px src='./assets/restorantguru1.png' />
+
 <p>
     <h2 style='font-weight: bold;'>Rocket</h2>
     Website with the aim of facilitating job search among developers and companies in the IT world, managed with 7 other developers using the SCRUM methodology<br></br>
